@@ -1,0 +1,1 @@
+{"name":"movie-premium-bot","version":"4.0.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.19.2","node-telegram-bot-api":"^0.66.0"}}
